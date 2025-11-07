@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola!👋
 
-<!--
-**joserosasa-eng/joserosasa-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Telecomunicaciones en la **Universidad Nacional de Ingeniería (UNI)**, Facultad de Ingeniería Eléctrica y Electrónica **(FIEE)**. Apasionado por las redes, las comunicaciones inalámbricas, la electrónica aplicada y el desarrollo de software para resolver problemas reales. Estoy iniciando mi camino como **programador**, en la **creación de proyectos** y en el diseño de sistemas electrónicos.
 
-Here are some ideas to get you started:
+ _"latúvara táni tó"_
+ 
+- 📍 Lima, Perú.
+- 🤝 Abierto a colaborar en proyectos estudiantiles, talleres y divulgación técnica.
+- 📜**Lenguajes:** Python · C/C++ · MATLAB
+- 🧩**Herramientas:** Git & GitHub · VS Code · Arduino · LaTeX 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Educación
+- Universidad Nacional de Ingeniería (UNI) — Facultad de Ingeniería Eléctrica y Electrónica (FIEE) · Ingeniería de Telecomunicaciones (estudiante)
+
+## 📫 Contacto
+- ✉️ jose.rosas.a@uni.pe · rosasamadojosecarlos@gmail.com
+
+## 📈 Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joserosasa-eng&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joserosasa-eng&layout=compact&theme=tokyonight)
