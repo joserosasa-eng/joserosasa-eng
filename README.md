@@ -6,8 +6,8 @@ Estudiante de Ingeniería de Telecomunicaciones en la **Universidad Nacional de 
  
 - 📍 Lima, Perú.
 - 🤝 Abierto a colaborar en proyectos estudiantiles, talleres y divulgación técnica.
-- 📜**Lenguajes:** Python · C/C++ · MATLAB
-- 🧩**Herramientas:** Git & GitHub · VS Code · Arduino · LaTeX 
+- 📜 Python · C/C++ · MATLAB
+- 🧩 Git & GitHub · VS Code · Dev-C++ · Arduino · LaTeX 
 
 ## 📚 Educación
 - Universidad Nacional de Ingeniería (UNI) — Facultad de Ingeniería Eléctrica y Electrónica (FIEE) · Ingeniería de Telecomunicaciones (estudiante)
